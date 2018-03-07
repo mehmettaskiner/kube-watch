@@ -36,7 +36,8 @@ const apiResources = {
     'resourcequotas',
     'secrets',
     'serviceaccounts',
-    'services'
+    'services',
+    'configmaps'
   ],
   v1beta1: [
     'horizontalpodautoscalers',
